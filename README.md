@@ -38,7 +38,7 @@ I build and manage production infrastructure — from Microsoft 365 and Azure to
 
 | Repo | What It Is |
 |------|-----------|
-| [**Tenant2Tenant-Migration-Tool**](https://github.com/WalterLuigi/Tenant2Tenant-Migration-Tool) | C# WPF + PowerShell app for migrating SharePoint sites between Microsoft 365 tenants. Dry-run preview, certificate-based auth, automated bootstrapping/teardown, and a GUI. |
+| [**Sharepoint-Migration-Tool**](https://github.com/WalterLuigi/Sharepoint-Migration-Tool) | C# WPF + PowerShell app for migrating SharePoint/OneDrive document repos between Microsoft 365 tenants. Dry-run preview, certificate-based auth, automated bootstrapping/teardown, and a GUI. |
 | [**Intune-Templates**](https://github.com/WalterLuigi/Intune-Templates) | 17 ready-to-import Intune policy templates (Windows + macOS) exported as Graph API JSON. |
 | [**WSL-NixOS-Config**](https://github.com/WalterLuigi/WSL-NixOS-Config) | Declarative NixOS WSL setup with Flakes, sops-nix, Home Manager, Comin, and Delta. Sanitized version of my daily driver when using Windows. |
 | [**Ansible-Scripts**](https://github.com/WalterLuigi/Ansible-Scripts) | Ansible playbooks for MikroTik routers, Linux servers, hypervisors, and Docker. |
